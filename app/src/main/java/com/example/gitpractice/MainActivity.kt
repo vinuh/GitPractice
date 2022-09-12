@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val arrList = ArrayList<Int>()
         Log.d("1","1")
+        Log.d("1","1")
         Log.d("2","2")
         Log.d("6","6")
         Log.d("5","5")
