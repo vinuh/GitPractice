@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("2","2")
         Log.d("6","6")
         Log.d("5","5")
+        Log.d("2","2")
     }
 }
