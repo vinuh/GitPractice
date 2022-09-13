@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         val arrList = ArrayList<Int>()
         Log.d("1","1")
         Log.d("2","2")
+        Log.d("3","3")
+        Log.d("4","4")
     }
 }
