@@ -21,9 +21,6 @@ class MainActivity : AppCompatActivity() {
         fun m1(){
 
         }
-        fun m2(){
-
-        }
         Log.d("3","3")
         Log.d("4","4")
     }
